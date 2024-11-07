@@ -2,7 +2,7 @@
 The COVID-19 pandemic brought dramatic and often distressing changes to people’s lives worldwide. With lockdowns, mask mandates, and travel restrictions, our normal activities were halted, leading to heightened stress, anxiety, and uncertainty for many. Beyond the physical health crisis, COVID-19 also struck at a crucial marker of social well-being happiness. Happiness, as gauged by well-being assessments like the World Happiness Report, is a key indicator of societal health. This project is an exploration of how the pandemic affected happiness worldwide, with a special focus on the differences between developed and developing nations.
 
 #### Research Questions
-###### Primary Question
+##### Primary Question
 To what extent did the COVID-19 pandemic influence global happiness levels?
 
 ##### Secondary Question
